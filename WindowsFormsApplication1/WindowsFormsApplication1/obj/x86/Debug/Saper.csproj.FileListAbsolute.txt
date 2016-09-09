@@ -1,0 +1,15 @@
+D:\Editor grafiki project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Saper.exe
+D:\Editor grafiki project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Saper.pdb
+D:\Editor grafiki project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Editor grafiki project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SaperMain.resources
+D:\Editor grafiki project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Saper.Properties.Resources.resources
+D:\Editor grafiki project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Editor grafiki project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Editor grafiki project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Saper.exe
+D:\Editor grafiki project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Saper.pdb
+D:\Saper\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Saper.exe
+D:\Saper\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Saper.pdb
+D:\Saper\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Saper.csprojResolveAssemblyReference.cache
+D:\Saper\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Saper\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Saper.Properties.Resources.resources
+D:\Saper\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Saper.csproj.GenerateResource.Cache
